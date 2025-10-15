@@ -1,0 +1,9 @@
+whisper
+vosk
+pyannote.audio
+transformers
+nltk
+spacy
+numpy
+pandas
+streamlit
